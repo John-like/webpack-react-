@@ -1,0 +1,13 @@
+module.exports={
+	entry:'./jsx/App.js',//入口文件
+	output:{
+	   path:'./js',//编译以后输出的路径
+	   filename:'app.js'//编译以后的文件名称
+	},
+	module:{
+		loaders:[{
+			test:/\.js$/,
+			loader:'jsx-loader'
+		}]
+	}
+}

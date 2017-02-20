@@ -1,0 +1,7 @@
+[{"src":"http://127.0.0.1:8020/extrack/img/img1.png","percentage":"20%","name":"北京光电服务","click":"144","price":"0.5元/次","getprice":"5元/次"},
+{"src":"http://127.0.0.1:8020/extrack/img/img2.png","percentage":"30%","name":"香港旅游一日","click":"124","price":"0.2元/次","getprice":"2元/次"},
+{"src":"http://127.0.0.1:8020/extrack/img/img3.png","percentage":"80%","name":"苍茫大地一日","click":"124","price":"0.7元/次","getprice":"3元/次"},
+{"src":"http://127.0.0.1:8020/extrack/img/img4.png","percentage":"50%","name":"澳门子弟","click":"122","price":"0.1元/次","getprice":"1元/次"},
+{"src":"http://127.0.0.1:8020/extrack/img/img5.png","percentage":"62%","name":"面对疾风","click":"1","price":"0.2元/次","getprice":"1元/次"},
+{"src":"http://127.0.0.1:8020/extrack/img/img6.png","percentage":"70%","name":"意识孤星","click":"134","price":"0.1元/次","getprice":"6元/次"}
+]
